@@ -1,1 +1,1 @@
-https://github.com/adam7717/christmas-shop.git
+https://adam7717.github.io/christmas-shop/
